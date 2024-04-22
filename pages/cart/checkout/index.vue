@@ -1,0 +1,3 @@
+<template>
+  <FormCheckout />
+</template>

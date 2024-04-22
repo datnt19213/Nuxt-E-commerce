@@ -1,0 +1,12 @@
+<script setup lang="ts">
+import { defineComponent } from 'vue';
+
+defineComponent({
+  name: 'MaterialSymbolsLightFilterList',
+});
+</script>
+<template>
+	<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24">
+		<path fill="currentColor" d="M10.558 17v-1h2.865v1zm-3.75-4.5v-1h10.365v1zM4 8V7h16v1z" />
+	</svg>
+</template>
